@@ -1,0 +1,17 @@
+AGREEABLENESS
+positive: 100, negative: 0, neutral: 0, bittersweet: 0
+
+CONSCIENTIOUSNESS
+positive: 96, negative: 0, neutral: 3, bittersweet: 1
+
+EXTROVERSION
+positive: 90, negative: 4, neutral: 5, bittersweet: 1
+
+EMOTIONAL_STABILITY
+positive: 100, negative: 0, neutral: 0, bittersweet: 0
+
+INTELLECT
+positive: 98, negative: 0, neutral: 2, bittersweet: 0
+
+NO_PERSONALITY
+positive: 94, negative: 0, neutral: 4,bittersweet: 2

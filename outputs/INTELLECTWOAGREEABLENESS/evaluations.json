@@ -1,0 +1,705 @@
+{
+  "evaluations": [
+    {
+      "ending": "positive",
+      "id": "011728bf-ef22-4ffb-b7f8-8e98f0a8a576",
+      "story_id": "21beb7bc-1d0a-4f5b-a429-0115b6f3edce",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "04b4d07d-80f8-4fb1-af74-d036f039191e",
+      "story_id": "38008adf-5c93-4ac3-832a-070cb9b004c8",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "aa199e87-3f16-445b-b026-6e5c438f69ea",
+      "story_id": "f1af5b5e-7994-447d-bf2a-bee968c2d9c8",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "d61de539-6c4d-4e61-adb0-207a905cbb09",
+      "story_id": "2c8da009-82eb-47a3-928d-22d344e34fbd",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "61edcc00-ff88-48ff-949a-20071d89e6e6",
+      "story_id": "b316921c-0d31-4c44-aa25-c49d8707aa4b",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "20bf0041-357b-42e0-ae15-32b7b0c2464f",
+      "story_id": "053570b6-fb2d-4313-a771-112ec70b621f",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "324cdc25-e752-4939-a1c1-a9a1d431722e",
+      "story_id": "10c8ef98-9784-42e3-b05c-09fe05f1670a",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9d2cba53-e748-42de-b3e3-6e0b56d1e9d2",
+      "story_id": "bf83338e-793d-478a-8523-654f5b874171",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4d3b1d02-fdc7-47fb-a3c3-e59c95c55963",
+      "story_id": "78143fe9-4053-4852-90ba-7e61ddbb5ed7",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "304362ea-c13a-4298-b510-2794fa7ebdc1",
+      "story_id": "d6136a7a-0577-4c08-9bbc-58a5f459edc2",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "134381c2-4fe3-495b-b80b-6dcb3b54037c",
+      "story_id": "f96b0786-7bc4-45ad-aa52-d372501f9804",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "3521f272-fa69-4126-b9ac-a7b745ab62d7",
+      "story_id": "7d073f15-2802-4e27-bd75-f3a76fa6aab9",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4631d1f0-ed3b-4116-b0e7-225eee069d62",
+      "story_id": "9a3f19f7-8d99-40ae-8038-1757ae13ee3f",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "695a6993-a340-4d3b-ac50-b1a80387b61a",
+      "story_id": "2d0ac01f-399a-4bcc-a9d0-cd9186cf42c2",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ade0047b-03ff-4357-81b8-c30625b11090",
+      "story_id": "6fa60c06-ede2-4dda-bda6-fd2b33627140",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8533b88d-5de7-455d-bafd-a6981367d98b",
+      "story_id": "b28e6da9-84c9-47c6-b543-4366d1f86218",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "be37af0d-41c2-4f72-9e77-c2dfa6a9c7d5",
+      "story_id": "f81f9f87-81fb-4749-83e2-4a200ea7f04e",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "91493e8d-e821-4cb6-a975-5d9809859d2a",
+      "story_id": "c4313e99-569f-42b8-a67b-43b028839a4c",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "dd1e5574-8ee8-48c1-a35d-099ed5d93ce9",
+      "story_id": "720f6668-abff-452c-a2dd-3d549efe1f12",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6dfe89b2-edef-4b50-9016-7624cfed3bda",
+      "story_id": "fc15e13c-d008-4d81-93b5-446878cb1fc1",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9aa104e7-dd20-4fd5-9893-83084deabdf3",
+      "story_id": "3dff2f21-9865-4a7d-9e43-c1d5d1f3d53d",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "261c0b42-bba7-4a87-8e87-5fb27be67a09",
+      "story_id": "13037fed-f351-4dfc-a3b0-9b5568cf46f9",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9f1f2e45-5313-47a4-bd3c-efdce1a48b00",
+      "story_id": "201d8011-755d-49cf-80de-60d00eba6003",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "179597cd-ea16-40a2-91c9-8671f66dab79",
+      "story_id": "448b9d06-08fc-4759-9822-26a3ea9265cb",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ae4e5c09-3e14-4100-bfcf-0162b4668724",
+      "story_id": "3eed193f-ce75-4835-9d50-2107abd08497",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0cd5f4fa-200f-4c2d-992d-82afd80a84ff",
+      "story_id": "d369e2fc-df3c-4a8b-a8f2-8af13366a344",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "44a8352a-1834-4660-950a-dbac6e448da8",
+      "story_id": "54211c2e-380f-444e-9fc9-711127c08b3d",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ec1e8605-9d80-49b3-bcdd-8fa88703cce4",
+      "story_id": "c2dffbbf-bbc4-4337-a3d5-7ee2882e467e",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4b057da2-66d5-4039-9d52-56b4207d3305",
+      "story_id": "a8c911f9-5aa9-4365-8869-4fcca646842e",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f56102bf-cd6b-44f4-9eec-257f6991abc3",
+      "story_id": "379673cb-3346-4724-9d2d-21330eca6228",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "1ac799f6-862f-47d7-baff-6e6f52a048b6",
+      "story_id": "b4018ba4-6c81-4017-850e-ae58de8cf989",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "88aca145-b859-4013-b727-7f5d1d5a868b",
+      "story_id": "f4400020-3d71-42ed-af67-42002c2bf6f5",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "a2659060-b0f6-4d03-aa33-3c309bc04964",
+      "story_id": "a4e876cc-5aec-4f2a-9867-50c6d9329c6f",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "efdf4706-b532-4f62-8320-c13feeef09a1",
+      "story_id": "982ef02e-d783-4e8d-86e0-c77e053012d1",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "db31f051-edd5-40ef-bd2c-a18edde0f4bc",
+      "story_id": "5464927b-60c5-4eab-a3b3-b40f8d642f95",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "c7debdbb-0609-46c8-80d2-b1fa36a630da",
+      "story_id": "48bc0185-aa3c-4858-a913-89676a9134e9",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "negative",
+      "id": "d1b170a4-3206-4166-b6c8-0659d7728b38",
+      "story_id": "a878ae94-003e-4618-acd5-e9ecaebdb915",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "adc37339-9497-47af-9a53-c503a909fc39",
+      "story_id": "30d50e38-9a07-48c0-943c-f6519cab711e",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "95af8f66-2c06-473c-bbe5-fc53b0caf78d",
+      "story_id": "cfebe718-3fc9-4a80-8c7d-db8b4b0ca0fb",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "1e95c715-a6a5-4998-95ea-5d2a622c0a7b",
+      "story_id": "6e474923-6ac3-4408-ba89-263d7b36b0af",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "384f7f4f-e150-4b3d-8702-7adc69c92ff5",
+      "story_id": "d575dec8-6763-494f-8e2b-3704e6d37962",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "cf858b4d-d0c4-411f-adad-4de4c5ddda23",
+      "story_id": "b075f58e-8bb5-42cf-b1bc-94784de45c17",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "07603e97-549f-49cc-a871-2beaeebec322",
+      "story_id": "1dae4642-f8e5-47f8-913b-a23be197f71c",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8075ba2a-a092-4343-8cb0-c4477cbb3bda",
+      "story_id": "5c95540e-7bc9-4d2e-b174-7bddeb470cec",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "96457286-00a7-4cf5-ab92-4f339fb311a2",
+      "story_id": "a089b193-5dba-4f68-9559-090631392d9f",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "90f57ab8-9635-421b-a753-e87d08f334ed",
+      "story_id": "dd466a80-1415-4e1c-b8c0-324e6104c7e6",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "da5224c9-9389-4186-8ac2-54a209f9802e",
+      "story_id": "ce29123c-fbae-4822-9336-a813f698d882",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b6de6fb6-a4a9-40d4-8566-ef2e9c5bdf94",
+      "story_id": "5c54f841-1b24-4186-bb44-c70fc0570b89",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "dde47a64-09e3-4d55-83f1-2fb72cbdf51c",
+      "story_id": "6732fa52-e1d4-43a0-9e5b-b5b122880e9c",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "119e2a80-316e-450f-8bfb-c135ecc9dd33",
+      "story_id": "631c8c24-dece-41d0-8bc9-a1f5b3bde8c8",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5f96543b-8704-4cbc-85e6-e8ff67d99922",
+      "story_id": "003abacb-5780-41d5-b47f-f61ed5c51020",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "cb192121-c91f-421c-af4a-28cdb8cdb86b",
+      "story_id": "3c54b116-208e-4e4d-a716-a8af13a0b25b",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "588896b7-b780-42a7-be62-2460dffc70f7",
+      "story_id": "58beb409-65b3-4afa-b2bf-5a155020d86f",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4d63277d-8d87-4548-96c0-ef8eb231ff5e",
+      "story_id": "225b22a6-ee0f-4f76-89c2-a9dc3924b732",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "415c87dd-9cc1-4857-8f6c-e736e04ec103",
+      "story_id": "d6843d28-3b25-48c9-b120-95cc31ab9e1b",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "f081ec07-497b-4966-9ccb-c6980473b7c9",
+      "story_id": "6d95b1a2-79f4-4cc6-b311-72d415fadf3d",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "63f01831-09f0-44eb-bc96-45374dc11483",
+      "story_id": "cc226a8b-724c-492c-a15a-e58f36f47e8f",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "64127cd7-cc10-4637-9037-3ec5d7c9572b",
+      "story_id": "47b3b2fb-aed8-481f-aa23-89eff715bfdb",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "caa1e791-4d9b-48a4-a62f-abf7f41cd7f2",
+      "story_id": "3661f5ba-0958-4056-8730-b2e825541864",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "ada4ee80-352d-459e-b481-77d35b879214",
+      "story_id": "8dea9694-bca2-4cd2-b1e0-916790ea3a1c",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9dfbe366-0a47-43df-abdb-886c18db5575",
+      "story_id": "9e7a1e54-c750-4229-8712-b75dc90c631a",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "22db295c-66bb-487c-835e-0e6b0dce46c1",
+      "story_id": "9340281d-b14b-4a17-9fb4-555af54906d7",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9c972261-666d-482b-8e6f-f6dbbef9f05d",
+      "story_id": "c83c4b73-8a89-45a6-97f5-952b71538c6f",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "484b0e5a-9476-4e65-b8f4-69a3dd79bc12",
+      "story_id": "985c71df-f7f3-419a-ae0a-5727a1f87294",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5d8325f5-05f3-4d0a-864b-b9ec6d68dda7",
+      "story_id": "de82cf48-1963-40bf-baa6-c6cb5bcb294d",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "7b6089b1-e693-492d-98ac-b0912736c820",
+      "story_id": "1b6e57ad-0cab-414d-a8b8-2e0d7d430cc1",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "45f6b28f-3509-4639-8291-d5c72a783de3",
+      "story_id": "c37c1ed0-cda1-40ef-9b52-734de6f0c76c",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "788de9bc-15d8-4ff9-9830-4cc1f7ef41f1",
+      "story_id": "4f96c43c-6ad4-42cf-8ba6-215dff5e0f8e",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "neutral",
+      "id": "bd6f4e4b-af8e-42ff-a433-1633a58dd243",
+      "story_id": "4bf003f3-e737-4378-b658-8c56c9c69579",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "96ca75d6-842c-410c-93ee-96c69cb71a78",
+      "story_id": "10d541a4-28dd-43e2-8821-0ef69a357d60",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "84224dcd-d916-43f5-8ccf-54cfb14a3097",
+      "story_id": "f055e996-f063-4932-b323-3c478d277625",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4cef28c0-7afa-4637-a9eb-66fd392e9acc",
+      "story_id": "52b0c66d-9cbd-4ecd-87a3-c1ce0a940119",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "48d28719-2192-4b4f-aac7-a41edefd0a1d",
+      "story_id": "fc761d54-7b51-4774-b9b7-7a346737ae37",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6d41ce25-0a68-451b-871b-f9acef253762",
+      "story_id": "f6a32e74-f897-4001-80f9-85c96551f623",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "cbd5c3c4-a61f-49ac-8a96-e1644d12f904",
+      "story_id": "fbf6c3a1-5466-48e5-be65-91c3961b92df",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "25e0d2e7-5221-4aee-a5d1-49edb1ace037",
+      "story_id": "1c59451e-54ee-467b-8bee-5e00d4314de6",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "93fb378b-df48-4106-9c28-3f39f373b198",
+      "story_id": "3861d0a2-cf48-4e3d-a98b-3c21bc4ca88f",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "eecd8c23-10f6-41a9-90f0-d31da2fdeef2",
+      "story_id": "ceb4977d-b0b5-42d6-9633-8a8df15487f1",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ecf5f011-5c61-41a9-895a-b2ef68638209",
+      "story_id": "644e3db7-68eb-48a3-9b75-1a01b1008e35",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5aeb359b-1e85-4d85-8a39-0f5675beef23",
+      "story_id": "2fbe33ee-4476-4897-b20f-2e435a17cfc3",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "ba7d95a9-9988-459c-9329-d8f3c5f97f8f",
+      "story_id": "48fd1bc0-b2de-4a95-8bd5-0ac16e3b0836",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "0168363f-dd0e-4485-bf74-18b31261d249",
+      "story_id": "45dd4997-699d-48be-a9ea-c516121fd4db",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "17dc9e5f-70fb-46d4-9ee0-468d3c4d7dab",
+      "story_id": "dfd2fb61-1a4b-4da9-b3ec-950770a56563",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "323f51d6-93b3-47d6-a2f7-4a56a7a01188",
+      "story_id": "a7ae89fa-198b-4890-9c62-c88442a789c0",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "b76d468c-656a-409a-9127-2c04ec54314c",
+      "story_id": "41efa896-a411-407c-a05e-3ff94b5d94a2",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5bfddd80-0aa4-4a96-b5b3-c80e297c73de",
+      "story_id": "a6c2f3bb-bc12-4a6b-8e48-4efb6d928738",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "8aad1a4a-fe97-40e7-ab58-bcb6196bb901",
+      "story_id": "ecca66b1-1b1f-45ad-a213-3d986e5758fb",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4bb84c9f-9b16-416d-b7bd-d97c93496a8e",
+      "story_id": "8b01c439-88f7-4975-88c0-f4b6c32682ce",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "492b7561-8d43-4519-be4f-c9c3572f2e6b",
+      "story_id": "4baed6c1-bae9-45cb-b651-ffc543a24a7c",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "84f482c0-7b47-4f58-af45-cecfc3788ac7",
+      "story_id": "b3e7863a-4251-4ae5-b561-0bf0e4dbf9f2",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "82bc3348-ba59-4179-94a6-74663fe742fa",
+      "story_id": "ec519f51-7579-41a9-b45d-6e4a067a5651",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f3336d52-03dd-46f9-85b3-b27e45dbc228",
+      "story_id": "ed14597e-e6b2-4339-b3cb-0d92db70f401",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "bittersweet",
+      "id": "6e2a2e99-0d12-4d96-8421-abe948608633",
+      "story_id": "9bbb51cf-852a-4526-a35c-c57187940dbf",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "7b3514a2-d016-41c5-aa7d-6a17029a5a44",
+      "story_id": "4d142c70-c46a-4c8f-aa71-a396ef253789",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "f2c83211-957a-40f7-9e22-ff3ff81be87d",
+      "story_id": "a3decb1a-7e19-4ecc-a4d3-7acaf1c26ec9",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "4fd57c9a-b6bb-48ff-9c4a-088a49417d61",
+      "story_id": "2405bb6c-8948-48f5-87aa-329407f7c622",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "64232a00-3104-4317-9c4c-6de83ab803f2",
+      "story_id": "65ca7cbe-23a3-4401-a0a0-3e110060bb99",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "9491ddd2-dd4a-4168-8702-29bdad50c84e",
+      "story_id": "27393794-f627-4fa6-a0c8-3067e2ebffdb",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "6665ec16-cd89-4eec-bb63-21ba46bf9805",
+      "story_id": "145f1dae-22d2-4f93-81d0-28a03267a308",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    },
+    {
+      "ending": "positive",
+      "id": "5366738c-0b60-4c66-9942-c0b124ca7f97",
+      "story_id": "fd602a4b-9d7c-42f4-8435-d5acc07957ae",
+      "model": "gpt-4o-2024-05-13",
+      "temperature": 0
+    }
+  ],
+  "count": 100
+}
